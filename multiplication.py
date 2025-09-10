@@ -3,4 +3,4 @@ limit = int(input("Enter the limit of the table: "))
 
 print("Multipilication Table of ", num)
 for i in range(1, limit+1):
-    print(num,"x",i,"=",num*i)
+    print(f'{num}x{i}={num*i}')
