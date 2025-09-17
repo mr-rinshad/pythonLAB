@@ -1,4 +1,4 @@
-basic_pay=float(input("Enter the basic pay: "))
+basic_pay=float(input("Enter the basic pay:  "))
 hra=(10/100)*basic_pay
 ta=(5/100)*basic_pay
 

@@ -9,7 +9,7 @@ mod=a%b
 exp=a**b
 intdiv=a//b
 
-print(f'ARITHMATIC OPERTION OF THE NUMBER {a} AND {b} ARE: \n')
+print(f'ARITHMATIC OPERTION OF THE NUMBER {a} AND {b} ARE:  \n')
 print(f'sum={sum}\n')
 print(f'difference={sub}\n')
 print(f'division={div}\n')
