@@ -1,9 +1,5 @@
-# Program to generate four-digit numbers in a given range
-# such that all digits are even and the number is a perfect square
-
 import math
 
-# Read range from user
 start = int(input("Enter the starting number: "))
 end = int(input("Enter the ending number: "))
 

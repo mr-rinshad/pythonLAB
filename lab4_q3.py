@@ -4,7 +4,7 @@ def compare(s1, s2, n):
     else:
         return False
 
-# Main program
+
 s1 = input("Enter first string: ")
 s2 = input("Enter second string: ")
 n = int(input("Enter number of characters to compare: "))

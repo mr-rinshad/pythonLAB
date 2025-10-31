@@ -1,6 +1,3 @@
-# Program to print the multiplication table of a number
-
-# Read number from user
 n = int(input("Enter a number: "))
 
 print(f"Multiplication table of {n}:")

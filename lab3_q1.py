@@ -1,5 +1,3 @@
-# Program to find factorial of a number
-
 num = int(input("Enter a number: "))
 
 factorial = 1
